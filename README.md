@@ -1,2 +1,4 @@
 # bioinfo
-Bioinformatics C++ space
+M.Sc Bioinformatics 
+<br>
+C++ space
