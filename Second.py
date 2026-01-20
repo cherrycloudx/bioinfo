@@ -6,7 +6,7 @@ int - stores integers value
 str - stores string of character (should be in double qoute)
 float - stores decimal value
 boolean - stores true or false
-none
+complex - stores complex numbers (not commonly used)
 '''
 
 #Example of data types: 
